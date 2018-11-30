@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d2f59c86-a273-4e94-a7ef-ab7949bfe80e" name="Default Changelist" comment="" />
+    <list default="true" id="d2f59c86-a273-4e94-a7ef-ab7949bfe80e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/RGB To Hex Conversion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Weight for weight.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Where my anagrams at.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codewars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codewars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Directions Reduction.py" beforeDir="false" afterPath="$PROJECT_DIR$/Directions Reduction.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,35 +20,39 @@
     <session id="-1690499404">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.11" value="4" />
+          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="15" />
+          <entry key="py" value="26" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="15" />
+          <entry key="Python" value="26" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="9947" />
+          <entry key="py" value="14337" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="9947" />
+          <entry key="Python" value="14337" />
         </counts>
       </usages-collector>
     </session>
@@ -50,16 +62,75 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/PycharmProjects/udemy1/venv/song.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/player.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="129" column="77" selection-start-line="129" selection-start-column="77" selection-end-line="129" selection-end-column="77" />
+            <state relative-caret-position="680">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
               <folding>
-                <marker date="1542582381107" expanded="true" signature="11:16" ph="..." />
-                <marker date="1542582381107" expanded="true" signature="390:1669" ph="..." />
-                <marker date="1542582381107" expanded="true" signature="1682:1687" ph="..." />
-                <marker date="1542582381107" expanded="true" signature="4346:4779" ph="..." />
+                <marker date="1543402132919" expanded="true" signature="21:22" ph="..." />
+                <marker date="1543402132919" expanded="true" signature="21:27" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/enemy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+              <folding>
+                <marker date="1543489546097" expanded="true" signature="12:13" ph="..." />
+                <marker date="1543489546097" expanded="true" signature="12:18" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+              <folding>
+                <element signature="e#0#25#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RGB To Hex Conversion.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Weight for weight.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="6" selection-start-line="2" selection-end-line="4" selection-end-column="70" />
+              <folding>
+                <marker date="1543575660233" expanded="true" signature="88:89" ph="..." />
+                <marker date="1543575660233" expanded="true" signature="88:93" ph="..." />
+                <marker date="1543575660233" expanded="true" signature="88:203" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Where my anagrams at.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="12" selection-start-line="2" selection-end-line="3" selection-end-column="58" />
+              <folding>
+                <marker date="1543404568998" expanded="true" signature="93:98" ph="..." />
+                <marker date="1543404568998" expanded="true" signature="93:155" ph="..." />
               </folding>
             </state>
           </provider>
@@ -94,14 +165,23 @@
         <option value="$USER_HOME$/PycharmProjects/udemy1/venv/accounts.py" />
         <option value="$PROJECT_DIR$/Dubstep.py" />
         <option value="$USER_HOME$/PycharmProjects/udemy1/venv/song.py" />
+        <option value="$PROJECT_DIR$/Who Likes it.py" />
+        <option value="$PROJECT_DIR$/Moving Zeros To The End.py" />
+        <option value="$PROJECT_DIR$/Directions Reduction.py" />
+        <option value="$USER_HOME$/PycharmProjects/game1/venv/player.py" />
+        <option value="$PROJECT_DIR$/Where my anagrams at.py" />
+        <option value="$USER_HOME$/PycharmProjects/game1/venv/enemy.py" />
+        <option value="$USER_HOME$/PycharmProjects/game1/venv/main.py" />
+        <option value="$PROJECT_DIR$/RGB To Hex Conversion.py" />
+        <option value="$PROJECT_DIR$/Weight for weight.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-24" />
-    <option name="y" value="102" />
-    <option name="width" value="2590" />
-    <option name="height" value="762" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="676" />
+    <option name="y" value="84" />
+    <option name="width" value="1960" />
+    <option name="height" value="1372" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -114,26 +194,15 @@
           <expand>
             <path>
               <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy1" type="462c0819:PsiDirectoryNode" />
+              <item name="codewars" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="udemy1" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
+              <item name="game1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (udemy1) &gt;" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.7 (udemy1) &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="game1" type="462c0819:PsiDirectoryNode" />
               <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -143,6 +212,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/Paul_/PycharmProjects/udemy1/venv/song.py" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -158,8 +228,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.song">
-    <configuration name="Dubstep" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Weight for weight">
+    <configuration name="Directions Reduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,7 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Dubstep.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Directions Reduction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -180,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Valid Parentheses" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="RGB To Hex Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Valid Parentheses.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RGB To Hex Conversion.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,28 +271,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="accounts" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="udemy1" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/udemy1/venv" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/udemy1/venv/accounts.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="snail" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Weight for weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -234,7 +283,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snail.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weight for weight.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -243,19 +292,40 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="song" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="udemy1" />
+    <configuration name="Where my anagrams at" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/udemy1/venv" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/udemy1/venv/song.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Where my anagrams at.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/game1/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/game1/venv/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -265,19 +335,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.Valid Parentheses" />
-      <item itemvalue="Python.accounts" />
-      <item itemvalue="Python.snail" />
-      <item itemvalue="Python.Dubstep" />
-      <item itemvalue="Python.song" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.Directions Reduction" />
+      <item itemvalue="Python.Where my anagrams at" />
+      <item itemvalue="Python.RGB To Hex Conversion" />
+      <item itemvalue="Python.Weight for weight" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.song" />
-        <item itemvalue="Python.Dubstep" />
-        <item itemvalue="Python.accounts" />
-        <item itemvalue="Python.Valid Parentheses" />
-        <item itemvalue="Python.snail" />
+        <item itemvalue="Python.Weight for weight" />
+        <item itemvalue="Python.RGB To Hex Conversion" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.Where my anagrams at" />
+        <item itemvalue="Python.Directions Reduction" />
       </list>
     </recent_temporary>
   </component>
@@ -305,19 +375,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="186" y="141" width="258" height="429" id="Project" order="0" side_tool="true" visible="true" weight="0.16865553" />
+      <window_info content_ui="combo" x="186" y="141" width="258" height="429" id="Project" order="0" side_tool="true" visible="true" weight="0.23229912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.18774861" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3293556" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.42348754" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30071175" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3291815" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3291815" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32206404" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" weight="0.3291815" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3291815" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -327,6 +398,17 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/PycharmProjects/game1/venv/main.py</url>
+          <line>5</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GoingToTheCinema.py">
@@ -360,13 +442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/snail.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="27" selection-start-line="6" selection-start-column="27" selection-end-line="6" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Valid Parentheses.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -378,11 +453,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1541546020108" expanded="true" signature="44:49" ph="..." />
-            <marker date="1541546020108" expanded="true" signature="133:228" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -416,15 +486,99 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Moving Zeros To The End.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="34" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directions Reduction.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/snail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="46" column="21" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Who Likes it.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/udemy1/venv/song.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="129" column="77" selection-start-line="129" selection-start-column="77" selection-end-line="129" selection-end-column="77" />
+        <state relative-caret-position="480">
+          <caret line="125" column="38" selection-start-line="125" selection-start-column="38" selection-end-line="125" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <marker date="1542582381107" expanded="true" signature="11:16" ph="..." />
-            <marker date="1542582381107" expanded="true" signature="390:1669" ph="..." />
-            <marker date="1542582381107" expanded="true" signature="1682:1687" ph="..." />
-            <marker date="1542582381107" expanded="true" signature="4346:4779" ph="..." />
+            <marker date="1543402132919" expanded="true" signature="21:22" ph="..." />
+            <marker date="1543402132919" expanded="true" signature="21:27" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/enemy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <marker date="1543489546097" expanded="true" signature="12:13" ph="..." />
+            <marker date="1543489546097" expanded="true" signature="12:18" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Where my anagrams at.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="2" selection-end-line="3" selection-end-column="58" />
+          <folding>
+            <marker date="1543404568998" expanded="true" signature="93:98" ph="..." />
+            <marker date="1543404568998" expanded="true" signature="93:155" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGB To Hex Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weight for weight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="6" selection-start-line="2" selection-end-line="4" selection-end-column="70" />
+          <folding>
+            <marker date="1543575660233" expanded="true" signature="88:89" ph="..." />
+            <marker date="1543575660233" expanded="true" signature="88:93" ph="..." />
+            <marker date="1543575660233" expanded="true" signature="88:203" ph="..." />
           </folding>
         </state>
       </provider>
