@@ -2,11 +2,11 @@
 
 def digital_root(n):
     sn = str(n)
-    if len(sn) == 1:
-        return n
-    else:
-        new_num = sum([int(x) for x in sn ])
-        digital_root(new_num)
+    while len(sn) != 1:
+        sn = str(sum([int(x) for x in sn]))
+    return int(sn)
+
 
 if __name__ == "__main__":
-    
+    a = digital_root(243)
+    print(a)
