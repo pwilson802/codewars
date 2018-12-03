@@ -13,6 +13,9 @@ def check_brackets(entry, direction):
             if closing.count(second) == 0:
                 return False
             if closing.count(second) < count:
+                print('{} - {} - {}'.format(num, direction, entry))
+                print(closing)
+                print(count)
                 return False
             else:
                 count += 1
@@ -36,7 +39,9 @@ def valid_parentheses(string):
 
 
 if __name__ == "__main__":
-    try1 = valid_parentheses(")test")
-    print(try1)
-    try2 = valid_parentheses("hi())(")
-    print(try2)
+#    try1 = valid_parentheses(")test")
+#    print(try1)
+#    try2 = valid_parentheses("hi())(")
+#    print(try2)
+    try3 = valid_parentheses("(ja)g(())(d)u")
+    print(try3)
