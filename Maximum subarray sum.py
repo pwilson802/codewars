@@ -1,10 +1,9 @@
 # https://www.codewars.com/kata/maximum-subarray-sum/train/python
 
 def maxSequence(arr):
-    res = 0
-    f = 0
+    res = [0]
     for num, x in enumerate(arr):
-        if arr[f:num+1]
+
 
 
 
