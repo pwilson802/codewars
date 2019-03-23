@@ -8,13 +8,10 @@ def solution(string,markers):
         for marker in markers:
             if marker in line:
                 m_dex = line.index(marker)
-                print('{} -------{}'.format(m_dex, line))
-                if line.index(marker) > 0:
-                    l.append(line[:m_dex].strip())
-                else:
-                    continue
-                # x[num] = line[:m_dex].strip()
+                line = line[:m_dex].strip()
+        l.append(line)
     return '\n'.join(l)
+
 
 y = "cherries pears , apples bananas\navocados cherries cherries pears ' strawberries\ncherries bananas oranges lemons =\n' strawberries avocados pears ! bananas"
 x = ['#', "'", '-', '.', '?', ',', '!', '^', '@']
