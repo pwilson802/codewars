@@ -13,7 +13,7 @@ def solution(string,markers):
     return '\n'.join(l)
 
 
-y = "cherries pears , apples bananas\navocados cherries cherries pears ' strawberries\ncherries bananas oranges lemons =\n' strawberries avocados pears ! bananas"
+i = "cherries pears , apples bananas\navocados cherries cherries pears ' strawberries\ncherries bananas oranges lemons =\n' strawberries avocados pears ! bananas"
 x = ['#', "'", '-', '.', '?', ',', '!', '^', '@']
-c = solution(y,x)
+c = solution(yix)
 print(c)
