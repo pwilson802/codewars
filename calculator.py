@@ -5,34 +5,43 @@ class Calculator(object):
     numerals = string.split()
     while True:
         if len(numerals) == 1:
-            return numberals[0]
+            return numerals[0]
         else:
-            if ('*' in numerals) or ('//' in numerals):
+            if ('*' in numerals) or ('/' in numerals):
                 for num, x in enumerate(numerals):
-                    if (x == '*') or (x == '//'):
+                    if (x == '*') or (x == '/'):
+                        print(numerals)
                         if x == '*':
                             res = int(numerals[num-1]) * int(numerals[num+1])
                         else:
                             res = int(numerals[num-1]) / int(numerals[num+1])
-                    if num == 1:
-                        numerals = numerals[num+1:]
-                        numerals.insert(0, res)
-                    else:
-                        numerals = numerals[:num-1] + numerals[num+1:]
-                        numerals.insert(num-1, res)
+                        if num == 1:
+                            numerals = numerals[num+2:]
+                            numerals.insert(0, res)
+                            break
+                        else:
+                            numerals = numerals[:num-1] + numerals[num+2:]
+                            numerals.insert(num-1, res)
+                            break
             else:
                 for num, x in enumerate(numerals):
                     if (x == '+') or (x == '-'):
+                        print(numerals)
                         if x == '+':
                             res = int(numerals[num-1]) + int(numerals[num+1])
                         else:
                             res = int(numerals[num-1]) - int(numerals[num+1])
-                    if num == 1:
-                        numerals = numerals[num+1:]
-                        numerals.insert(0, res)
-                    else:
-                        numerals = numerals[:num-1] + numerals[num+1:]
-                        numerals.insert(num-1, res)
+                        if num == 1:
+                            numerals = numerals[num+2:]
+                            numerals.insert(0, res)
+                            break
+                        else:
+                            numerals = numerals[:num-1] + numerals[num+2:]
+                            numerals.insert(num-1, res)
+                            break
 
 
-assert Calculator().evaluate("2 / 2 + 3 * 4 - 6") == 7, 'Should equal 7'
+if __name__ == '__main__':
+    assert Calculator().evaluate("2 / 2 + 3 * 4 - 6") == 7, 'Should equal 7'
+    n = Calculator().evaluate("2 / 2 + 3 * 4 - 6")
+    print(n)
