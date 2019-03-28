@@ -12,9 +12,9 @@ class Calculator(object):
                     if (x == '*') or (x == '/'):
                         print(numerals)
                         if x == '*':
-                            res = int(numerals[num-1]) * int(numerals[num+1])
+                            res = float(numerals[num-1]) * float(numerals[num+1])
                         else:
-                            res = int(numerals[num-1]) / int(numerals[num+1])
+                            res = float(numerals[num-1]) / float(numerals[num+1])
                         if num == 1:
                             numerals = numerals[num+2:]
                             numerals.insert(0, res)
@@ -28,9 +28,9 @@ class Calculator(object):
                     if (x == '+') or (x == '-'):
                         print(numerals)
                         if x == '+':
-                            res = int(numerals[num-1]) + int(numerals[num+1])
+                            res = float(numerals[num-1]) + float(numerals[num+1])
                         else:
-                            res = int(numerals[num-1]) - int(numerals[num+1])
+                            res = float(numerals[num-1]) - float(numerals[num+1])
                         if num == 1:
                             numerals = numerals[num+2:]
                             numerals.insert(0, res)
