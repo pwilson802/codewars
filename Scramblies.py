@@ -1,17 +1,16 @@
 # https://www.codewars.com/kata/scramblies/train/python
-
+from collections import Counter
 
 def scramble(s1, s2):
-    for x in s2:
-        try:
-            if s2.count(x) > s1.count(x):
-                return False
-            else:
-                continue
-        except:
+    base = Counter(s2)
+    comparision = Counter(s1)
+    for x in base:
+        if x not in comparision:
+            return False
+        elif base[x] > comparision[x]:
             return False
     return True
 
 if __name__ == '__main__':
-    a = scramble('odewarsedewaraaossoqqyt', 'codewars')
+    a = scramble('ccodewarsedewarccaaossoqqyt', 'codewars')
     print(a)
