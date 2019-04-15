@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2f59c86-a273-4e94-a7ef-ab7949bfe80e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Multiples of 3 or 5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codewars.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codewars.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,39 +16,40 @@
     <session id="-1690499404">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.10" value="5" />
+          <entry key="project.open.time.10" value="8" />
           <entry key="project.open.time.11" value="5" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.17" value="1" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="2" />
+          <entry key="project.open.time.6" value="3" />
+          <entry key="project.open.time.7" value="6" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.open.time.9" value="3" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.9" value="4" />
+          <entry key="project.opened" value="32" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="27" />
+          <entry key="py" value="44" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="PLAIN_TEXT" value="2" />
-          <entry key="Python" value="27" />
+          <entry key="Python" value="44" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="14348" />
+          <entry key="py" value="17661" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="14348" />
+          <entry key="Python" value="17661" />
         </counts>
       </usages-collector>
     </session>
@@ -58,27 +60,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/player.py">
+        <entry file="file://$PROJECT_DIR$/Maximum subarray sum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="680">
-              <caret line="40" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <marker date="1543402132919" expanded="true" signature="21:22" ph="..." />
-                <marker date="1543402132919" expanded="true" signature="21:27" ph="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/enemy.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" selection-start-line="21" selection-end-line="21" />
-              <folding>
-                <marker date="1543489546097" expanded="true" signature="12:13" ph="..." />
-                <marker date="1543489546097" expanded="true" signature="12:18" ph="..." />
-              </folding>
+            <state relative-caret-position="34">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -96,37 +81,59 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/RGB To Hex Conversion.py">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/player.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            <state relative-caret-position="680">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Weight for weight.py">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/enemy.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+            <state relative-caret-position="357">
+              <caret line="21" selection-start-line="21" selection-end-line="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/sizes.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="561">
+              <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/scratchpad.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/fibgen.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
+              <folding>
+                <marker date="1551140323101" expanded="true" signature="16:21" ph="..." />
+                <marker date="1551140323101" expanded="true" signature="252:531" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Multiples of 3 or 5.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Where my anagrams at.py">
+        <entry file="file://$USER_HOME$/PycharmProjects/game1/filegen.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="12" selection-start-line="2" selection-end-line="3" selection-end-column="58" />
-              <folding>
-                <marker date="1543404568998" expanded="true" signature="93:98" ph="..." />
-                <marker date="1543404568998" expanded="true" signature="93:155" ph="..." />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -156,7 +163,6 @@
         <option value="$PROJECT_DIR$/Human Readable Time.py" />
         <option value="$USER_HOME$/PycharmProjects/udemy1/classes1.py" />
         <option value="$PROJECT_DIR$/snail.py" />
-        <option value="$PROJECT_DIR$/Valid Parentheses.py" />
         <option value="$USER_HOME$/PycharmProjects/udemy1/venv/accounts.py" />
         <option value="$PROJECT_DIR$/Dubstep.py" />
         <option value="$USER_HOME$/PycharmProjects/udemy1/venv/song.py" />
@@ -170,12 +176,25 @@
         <option value="$PROJECT_DIR$/RGB To Hex Conversion.py" />
         <option value="$PROJECT_DIR$/Weight for weight.py" />
         <option value="$PROJECT_DIR$/Multiples of 3 or 5.py" />
+        <option value="$PROJECT_DIR$/Sum of Digits - Digital Root.py" />
+        <option value="$PROJECT_DIR$/Valid Parentheses.py" />
+        <option value="$PROJECT_DIR$/valid Pratentheses2.py" />
+        <option value="$PROJECT_DIR$/Pete, the baker.py" />
+        <option value="$PROJECT_DIR$/Rot13.py" />
+        <option value="$PROJECT_DIR$/Scramblies.py" />
+        <option value="$PROJECT_DIR$/IQ Test.py" />
+        <option value="$PROJECT_DIR$/Can you get the loop.py" />
+        <option value="$PROJECT_DIR$/Maximum subarray sum.py" />
+        <option value="$USER_HOME$/PycharmProjects/game1/sizes.py" />
+        <option value="$USER_HOME$/PycharmProjects/game1/scratchpad.py" />
+        <option value="$USER_HOME$/PycharmProjects/game1/fibgen.py" />
+        <option value="$USER_HOME$/PycharmProjects/game1/filegen.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="676" />
-    <option name="y" value="84" />
+    <option name="x" value="-36" />
+    <option name="y" value="552" />
     <option name="width" value="1960" />
     <option name="height" value="1372" />
   </component>
@@ -184,27 +203,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="codewars" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
               <item name="game1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="codewars" type="b2602c69:ProjectViewProjectNode" />
-              <item name="game1" type="462c0819:PsiDirectoryNode" />
-              <item name="venv" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,8 +234,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Weight for weight">
-    <configuration name="Directions Reduction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.filegen">
+    <configuration name="IQ Test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="codewars" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -237,7 +247,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Directions Reduction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IQ Test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,70 +256,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="RGB To Hex Conversion" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RGB To Hex Conversion.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Weight for weight" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Weight for weight.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Where my anagrams at" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="codewars" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Where my anagrams at.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fibgen" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="game1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,11 +264,74 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/game1/venv" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/game1" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/game1/venv/main.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/game1/fibgen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="filegen" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/game1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/game1/filegen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratchpad" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/game1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/game1/scratchpad.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sizes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="game1" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/game1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/game1/sizes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -331,19 +341,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.main" />
-      <item itemvalue="Python.Directions Reduction" />
-      <item itemvalue="Python.Where my anagrams at" />
-      <item itemvalue="Python.RGB To Hex Conversion" />
-      <item itemvalue="Python.Weight for weight" />
+      <item itemvalue="Python.IQ Test" />
+      <item itemvalue="Python.sizes" />
+      <item itemvalue="Python.scratchpad" />
+      <item itemvalue="Python.fibgen" />
+      <item itemvalue="Python.filegen" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Weight for weight" />
-        <item itemvalue="Python.RGB To Hex Conversion" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.Where my anagrams at" />
-        <item itemvalue="Python.Directions Reduction" />
+        <item itemvalue="Python.filegen" />
+        <item itemvalue="Python.fibgen" />
+        <item itemvalue="Python.scratchpad" />
+        <item itemvalue="Python.sizes" />
+        <item itemvalue="Python.IQ Test" />
       </list>
     </recent_temporary>
   </component>
@@ -371,14 +381,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1293" height="693" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" x="186" y="141" width="258" height="429" id="Project" order="0" side_tool="true" visible="true" weight="0.17422435" />
+      <window_info active="true" content_ui="combo" x="186" y="141" width="258" height="429" id="Project" order="0" side_tool="true" visible="true" weight="0.1646778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.18774861" />
       <window_info id="Favorites" order="2" side_tool="true" weight="0.3293556" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30071175" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3772242" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -435,13 +444,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Valid Parentheses.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -517,25 +519,94 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/player.py">
+    <entry file="file://$PROJECT_DIR$/Sum of Digits - Digital Root.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="680">
-          <caret line="40" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <marker date="1543402132919" expanded="true" signature="21:22" ph="..." />
-            <marker date="1543402132919" expanded="true" signature="21:27" ph="..." />
-          </folding>
+        <state relative-caret-position="187">
+          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/enemy.py">
+    <entry file="file://$PROJECT_DIR$/Multiples of 3 or 5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <marker date="1543489546097" expanded="true" signature="12:13" ph="..." />
-            <marker date="1543489546097" expanded="true" signature="12:18" ph="..." />
-          </folding>
+        <state relative-caret-position="51">
+          <caret line="3" column="77" selection-start-line="3" selection-start-column="77" selection-end-line="3" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Where my anagrams at.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="12" selection-start-line="2" selection-end-line="3" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Weight for weight.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RGB To Hex Conversion.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Can you get the loop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IQ Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Scramblies.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Rot13.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="7" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Pete, the baker.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/valid Pratentheses2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="35" selection-start-line="4" selection-start-column="35" selection-end-line="4" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Valid Parentheses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="5" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Maximum subarray sum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -549,35 +620,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RGB To Hex Conversion.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/player.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="680">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Where my anagrams at.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/venv/enemy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="2" selection-end-line="3" selection-end-column="58" />
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/sizes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="28" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/scratchpad.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="11" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/fibgen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="17" selection-start-line="23" selection-start-column="17" selection-end-line="23" selection-end-column="17" />
           <folding>
-            <marker date="1543404568998" expanded="true" signature="93:98" ph="..." />
-            <marker date="1543404568998" expanded="true" signature="93:155" ph="..." />
+            <marker date="1551140323101" expanded="true" signature="16:21" ph="..." />
+            <marker date="1551140323101" expanded="true" signature="252:531" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Weight for weight.py">
+    <entry file="file://$USER_HOME$/PycharmProjects/game1/filegen.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Multiples of 3 or 5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
